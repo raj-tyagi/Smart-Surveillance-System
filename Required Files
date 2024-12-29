@@ -1,0 +1,11 @@
+Here are the links where users can download the necessary YOLO files (weights, configuration, and class names):
+
+1. **YOLOv4 Weights**  
+   - [Download YOLOv4 Weights](https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov4.weights)
+
+2. **YOLOv4 Configuration File (CFG)**  
+   - [Download YOLOv4 CFG](https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov4.cfg)
+
+3. **COCO Class Names**  
+   - [Download coco.names](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
+
