@@ -70,6 +70,15 @@ pip install opencv-python numpy pytube
 
 ---
 
+### Example Input and Output Videos
+
+#### Input Video
+[Click to view input video](https://drive.google.com/file/d/17vTtRMgAsXipdB2jxjRcHFYVhIHr5pYa/view?usp=sharing)
+
+#### Output Video
+[Click to view output video](https://drive.google.com/file/d/1fraAjRt2pFT4yWGjf5X55UhJihzfb68Y/view?usp=sharing)
+
+
 ## Project Structure  
 
 ```plaintext  
