@@ -1,4 +1,4 @@
-### Smart Surveillance System  
+# Smart Surveillance System  
 A robust video processing application that combines **YOLO object detection** with **Lucas-Kanade optical flow-based tracking** to monitor and analyze video streams for smart surveillance.
 
 ---
